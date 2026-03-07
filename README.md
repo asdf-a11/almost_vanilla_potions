@@ -1,6 +1,7 @@
 # Almost Vanilla Potions
 
 ![alt text](/textures/screenshot.png)
+![alt text](/ExampleImage.PNG)
 
 ## About 
 
@@ -17,3 +18,7 @@ All credits go to the orignal author of the mod "Delled" on Modrinth.
 One can find a link here to the chap (https://modrinth.com/user/Delled).
 
 I have only ported these textures to Mintest as they were released under the MIT license.
+
+## License
+
+This is under the MIT license. See the LICENSE file included in the repo for more information.
