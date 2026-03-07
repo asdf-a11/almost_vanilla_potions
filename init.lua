@@ -1,4 +1,5 @@
 --TODO i dont think honey's texture has been overloaded but that is something for the future
+--TODO i want to include some more example images in game of the textures
 
 --Some potions dont seem to be supported by this texture pack
 local overrideList = {
