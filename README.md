@@ -1,17 +1,17 @@
 # Almost Vanilla Potions
 
-<i>Example image of some of the textures</i>
+Example image of some of the textures:
 
-![alt text](/ExampleImage.PNG)
+![alt test](InventScreenShot.PNG)
 
 ## About 
 
 This is a texture pack for the game Minetest. It is a port of the textures created for this Minecraft mod (https://modrinth.com/resourcepack/almost-vanilla-potions).
 
-<i>
-You may notice that this is release under a mod and not a texture pack. This is because the way Mineclonia handles potion <br>
+
+You may notice that this is release under a mod and not a texture pack. This is because the way Mineclonia handles potion 
 textures. Therefore one needs some code to override the existing textures with new ones.
-</i>
+
 
 ## Credits
 
