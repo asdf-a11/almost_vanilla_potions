@@ -3,9 +3,9 @@
 
 --Some potions dont seem to be supported by this texture pack
 local overrideList = {
-	"awkward",
-	"mundane",
-	"thick",
+	--"awkward",
+	--"mundane",
+	--"thick",
 	"healing",
 	"harming",
 	"night_vision",
